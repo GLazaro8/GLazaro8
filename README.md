@@ -1,6 +1,6 @@
 # HOLA! Soy Gonzalo Lázaro, Bienvenido a mi perfil.
 
-![RX7](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1435735556&psig=AOvVaw0PHEXhgvUIPobtT3z3nhUB&ust=1697545453659000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiOyt_H-oEDFQAAAAAdAAAAABAJ.gif)
+![](https://steamuserimages-a.akamaihd.net/ugc/961986516658880213/E1FDB0AA86F8DD14FE51EFD66DB43049788F4638/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true.gif)
 <!--
 **GLazaro8/GLazaro8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
