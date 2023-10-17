@@ -2,7 +2,7 @@
 
 ![](https://steamuserimages-a.akamaihd.net/ugc/961986516658880213/E1FDB0AA86F8DD14FE51EFD66DB43049788F4638/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true.gif)
 
->** Soy estudiante de Desarrollo de Aplicaciones Web en CPIFP Alan Turing **
+>**Soy estudiante de Desarrollo de Aplicaciones Web en CPIFP Alan Turing**
 
 ### Sobre mi
 
