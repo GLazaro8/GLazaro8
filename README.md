@@ -1,10 +1,6 @@
-# HOLA! Soy Gonzalo Lázaro, Bienvenid@ a mi perfil.
+# Hola! Soy Gonzalo Lázaro, Bienvenid@ a mi perfil.
 
 ![](https://steamuserimages-a.akamaihd.net/ugc/961986516658880213/E1FDB0AA86F8DD14FE51EFD66DB43049788F4638/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true.gif)
-<!--
-**GLazaro8/GLazaro8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 >** Soy estudiante de Desarrollo de Aplicaciones Web en CPIFP Alan Turing **
 
@@ -19,11 +15,4 @@ Here are some ideas to get you started:
 >También me encanta el automovilismo en general y los coches, como habrás podido ver en el gif de arriba
 
 >Obviamente tengo más aficiones como los libros de ciencia ficción, los videojuegos, las series, películas, salir con amigos... Pero creo que con esto basta, que sino me quedo sin espacio! 🤣🤣🤣
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
