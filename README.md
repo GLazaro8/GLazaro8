@@ -18,4 +18,4 @@
 
 >Ahora mismo estoy aprendiendo estos lenguajes y espero añadir más en el futuro
 
-<img src="https://www.kindpng.com/picc/b/171-1718053_html-css-javascript-png-transparent-png.png" width="300" height="140">
+<img src="https://www.kindpng.com/picc/b/171-1718053_html-css-javascript-png-transparent-png.png" width="300" height="120">
