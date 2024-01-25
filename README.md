@@ -16,3 +16,6 @@
 
 >Obviamente tengo más aficiones como los libros de ciencia ficción, los videojuegos, las series, películas, salir con amigos... Pero creo que con esto basta, que sino me quedo sin espacio! 🤣🤣🤣
 
+>Ahora mismo estoy aprendiendo estos lenguajes y espero añadir más en el futuro
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
