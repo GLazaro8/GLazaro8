@@ -18,4 +18,4 @@
 
 >Ahora mismo estoy aprendiendo estos lenguajes y espero añadir más en el futuro
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png](https://banner2.cleanpng.com/20180920/kl/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8038ab77.3391088215374782722321.jpg)https://banner2.cleanpng.com/20180920/kl/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8038ab77.3391088215374782722321.jpg">
+<img src="https://www.kindpng.com/picc/b/171-1718053_html-css-javascript-png-transparent-png.png">
