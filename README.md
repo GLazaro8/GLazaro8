@@ -18,4 +18,4 @@
 
 >Ahora mismo estoy aprendiendo estos lenguajes y espero añadir más en el futuro
 
-<img src="https://www.kindpng.com/picc/b/171-1718053_html-css-javascript-png-transparent-png.png" width="300" height="120">
+<img src="https://www.kindpng.com/picc/b/171-1718053_html-css-javascript-png-transparent-png.png" width="300" height="120"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="240" height="120"><img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-7.png" width="120" height="120">
