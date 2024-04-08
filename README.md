@@ -4,6 +4,8 @@
 
 >**Soy estudiante de Desarrollo de Aplicaciones Web en CPIFP Alan Turing**
 
+>>**Ahora mismo me encuentro realizando la Formación DUAL en Accenture**
+
 ### Sobre mi
 
 >Tengo 24 años, a dia de hoy claro 😄
