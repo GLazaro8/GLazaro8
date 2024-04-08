@@ -4,7 +4,7 @@
 
 >**Soy estudiante de Desarrollo de Aplicaciones Web en CPIFP Alan Turing**
 
->>**Ahora mismo me encuentro realizando la Formación DUAL en Accenture**
+>**Ahora mismo me encuentro realizando la Formación DUAL en Accenture**
 
 ### Sobre mi
 
